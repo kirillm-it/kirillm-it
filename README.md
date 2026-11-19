@@ -1,16 +1,14 @@
-## Hi there 👋
+# kirillm-it
 
-<!--
-**kirillm-it/kirillm-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Здесь мои проекты на Kotlin, Java и React.
 
-Here are some ideas to get you started:
+## NEON ARCANA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[NEON ARCANA](https://github.com/kirillm-it/neon-arcana) — Android-приложение с раскладами Таро, дневником и коллекцией карт. Написано на Kotlin и Jetpack Compose. Работает офлайн.
+
+[Скачать APK](https://github.com/kirillm-it/neon-arcana/releases/latest) · [Посмотреть исходники](https://github.com/kirillm-it/neon-arcana)
+
+## Учебные проекты
+
+- [Практика по Java](https://github.com/kirillm-it/javapr3) — четыре задания, каждое в своей ветке.
+- [Викторина на React](https://github.com/kirillm-it/react3028) — вопросы с выбором ответа и подсчётом результата.
